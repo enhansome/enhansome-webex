@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,028 | 🐛 209 | 🌐 Go | 📅 2026-08-13 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,878 | 🐛 26 | 🌐 Python | 📅 2026-08-05.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,085 | 🐛 209 | 🌐 Go | 📅 2026-08-14 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,029 | 🐛 27 | 🌐 Python | 📅 2026-08-05.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
