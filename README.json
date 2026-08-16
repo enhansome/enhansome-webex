@@ -553,7 +553,7 @@
             "last_commit": "2026-05-27T10:35:10Z",
             "owner": "webex",
             "repo": "react-widgets",
-            "stars": 85
+            "stars": 84
           }
         },
         {
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:05:45.176Z",
+    "last_updated": "2026-08-16T07:07:43.311Z",
     "original_repository": "CiscoDevNet/awesome-webex",
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",
     "enhanced_repository": "enhansome/enhansome-webex",
