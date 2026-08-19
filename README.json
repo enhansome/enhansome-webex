@@ -365,7 +365,7 @@
                     "archived": false,
                     "id": 62836827,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T14:37:48Z",
+                    "last_commit": "2026-08-19T10:47:34Z",
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 203
@@ -552,7 +552,7 @@
                 "archived": false,
                 "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T14:37:48Z",
+                "last_commit": "2026-08-19T10:47:34Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 203
@@ -1256,8 +1256,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:13:31.141Z",
+    "last_updated": "2026-08-19T12:57:31.067Z",
     "original_repository": "CiscoDevNet/awesome-webex",
+    "original_repository_id": 65803220,
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",
     "enhanced_repository": "enhansome/enhansome-webex",
     "enhanced_repository_description": null,

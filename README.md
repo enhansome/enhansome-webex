@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,482 | 🐛 213 | 🌐 Go | 📅 2026-08-19 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,766 | 🐛 18 | 🌐 Python | 📅 2026-08-16.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,511 | 🐛 213 | 🌐 Go | 📅 2026-08-19 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,857 | 🐛 18 | 🌐 Python | 📅 2026-08-16.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -67,7 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
   * [webex-java-sdk](https://github.com/webex/webex-java-sdk) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2021-10-19 - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 203 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-18 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
+  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 203 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-19 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
   * [sparky](https://github.com/flint-bot/sparky) ⭐ 17 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - A simple API wrapper for Node.js (by nmarus).
   * [sparkclient](https://github.com/marchfederico/node-sparkclient) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-29 - A simple Node.js module (by marchfederico).
 * Perl
@@ -85,7 +85,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ### Advanced APIs
 
-* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 203 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-18 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 203 | 🐛 101 | 🌐 TypeScript | 📅 2026-08-19 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
 * [Widgets](https://github.com/webex/react-ciscospark) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-27 - React components that mimic the Web user experience (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2019-04-04 - Integrate messaging and calling in your iOS apps (by Cisco Webex).
 * [SDK for Android](https://github.com/webex/spark-android-sdk) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2019-04-03 - Integrate messaging and calling in your Android apps (by Cisco Webex).
