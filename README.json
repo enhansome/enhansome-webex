@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Please take a quick gander at the Contribution guidelines first. Thanks to all contributors; you rock!\nIf you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
       "description": "Libraries to code your own bots and integrations implementing Webhooks and/or the OAuth Grant Flow.",
       "items": [
         {
@@ -20,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75416398,
                 "language": "Java",
                 "last_commit": "2016-12-20T15:49:04Z",
                 "owner": "CiscoDevNet",
@@ -41,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 47851629,
                 "language": "TypeScript",
                 "last_commit": "2024-07-01T02:28:35Z",
                 "owner": "howdyai",
@@ -55,6 +52,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 74126906,
                 "language": "JavaScript",
                 "last_commit": "2019-11-26T15:47:27Z",
                 "owner": "SAP-archive",
@@ -69,6 +67,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51719063,
                 "language": "JavaScript",
                 "last_commit": "2023-01-11T11:51:59Z",
                 "owner": "flint-bot",
@@ -83,6 +82,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 226906078,
                 "language": "JavaScript",
                 "last_commit": "2026-07-20T03:44:22Z",
                 "owner": "WebexCommunity",
@@ -97,6 +97,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 71452766,
                 "language": "JavaScript",
                 "last_commit": "2019-09-12T15:12:06Z",
                 "owner": "CiscoDevNet",
@@ -111,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 54433723,
                 "language": "CoffeeScript",
                 "last_commit": "2020-02-07T11:51:03Z",
                 "owner": "tonybaloney",
@@ -125,6 +127,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 64261560,
                 "language": "CoffeeScript",
                 "last_commit": "2017-01-16T20:03:49Z",
                 "owner": "marchfederico",
@@ -146,6 +149,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 124022846,
                 "language": "Perl",
                 "last_commit": "2025-09-17T00:40:02Z",
                 "owner": "akalinux",
@@ -167,6 +171,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 95457678,
                 "language": "PHP",
                 "last_commit": "2019-03-11T20:02:40Z",
                 "owner": "botman",
@@ -188,6 +193,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 157026180,
                 "language": "Python",
                 "last_commit": "2022-12-26T20:46:37Z",
                 "owner": "hpreston",
@@ -202,6 +208,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 146394957,
                 "language": "Python",
                 "last_commit": "2026-03-07T13:00:28Z",
                 "owner": "marksull",
@@ -216,6 +223,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 63613425,
                 "language": "Python",
                 "last_commit": "2018-01-17T13:29:23Z",
                 "owner": "panholt",
@@ -229,132 +237,322 @@
       "title": "Bot frameworks"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Client SDKs"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "group",
-          "title": "C#",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "SparkDotNet",
-              "description": "An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2022-06-22T15:23:16Z",
-                "owner": "darrenparkinson",
-                "repo": "SparkDotNet",
-                "stars": 13
-              }
+              "node_type": "group",
+              "title": "C#",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SparkDotNet",
+                  "description": "An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74142799,
+                    "language": "C#",
+                    "last_commit": "2022-06-22T15:23:16Z",
+                    "owner": "darrenparkinson",
+                    "repo": "SparkDotNet",
+                    "stars": 13
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Elixir",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ex_webexteams",
+                  "description": "Elixir package (by zpeters).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152519380,
+                    "language": "Elixir",
+                    "last_commit": "2023-12-11T13:37:08Z",
+                    "owner": "zpeters",
+                    "repo": "ex_webexteams",
+                    "stars": 4
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Go",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "go-cisco-webex-teams",
+                  "description": "A Go client library (by jbogarin).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134353833,
+                    "language": "Go",
+                    "last_commit": "2022-10-09T21:41:57Z",
+                    "owner": "jbogarin",
+                    "repo": "go-cisco-webex-teams",
+                    "stars": 37
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Haskell",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webex-teams-api",
+                  "description": "A Haskell binding (by nshimaza).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98136233,
+                    "language": "Haskell",
+                    "last_commit": "2020-07-29T15:08:27Z",
+                    "owner": "nshimaza",
+                    "repo": "webex-teams-api",
+                    "stars": 7
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Java",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webex-java-sdk",
+                  "description": "A Java library for consuming the RESTful APIs (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47515749,
+                    "language": "Java",
+                    "last_commit": "2021-10-19T17:38:34Z",
+                    "owner": "webex",
+                    "repo": "webex-java-sdk",
+                    "stars": 70
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Node.js",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webex-js-sdk",
+                  "description": "Wrapper maintained by Cisco's engineering group (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62836827,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T14:37:48Z",
+                    "owner": "webex",
+                    "repo": "webex-js-sdk",
+                    "stars": 203
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sparky",
+                  "description": "A simple API wrapper for Node.js (by nmarus).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54865333,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-07T17:31:27Z",
+                    "owner": "flint-bot",
+                    "repo": "sparky",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sparkclient",
+                  "description": "A simple Node.js module (by marchfederico).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47990803,
+                    "language": "JavaScript",
+                    "last_commit": "2017-03-29T23:11:32Z",
+                    "owner": "marchfederico",
+                    "repo": "node-sparkclient",
+                    "stars": 7
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Perl",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cisco_spark-perl",
+                  "description": "Asynchronous Bot and HTTP Client Library (by akalinux).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124022846,
+                    "language": "Perl",
+                    "last_commit": "2025-09-17T00:40:02Z",
+                    "owner": "akalinux",
+                    "repo": "cisco_spark-perl",
+                    "stars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PHP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SparkBundle",
+                  "description": "Symfony bundle (by CiscoVE).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48879358,
+                    "language": "PHP",
+                    "last_commit": "2018-03-29T15:15:18Z",
+                    "owner": "CiscoVE",
+                    "repo": "SparkBundle",
+                    "stars": 1
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Python",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webexteamssdk",
+                  "description": "(formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63186293,
+                    "language": "Python",
+                    "last_commit": "2026-05-24T01:30:19Z",
+                    "owner": "WebexCommunity",
+                    "repo": "WebexPythonSDK",
+                    "stars": 256
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pyCiscoSpark",
+                  "description": "Python library (by brbester).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48495460,
+                    "language": "Python",
+                    "last_commit": "2017-11-16T18:12:39Z",
+                    "owner": "brbester",
+                    "repo": "pyCiscoSpark",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aiociscospark",
+                  "description": "Python 3 asynchronous API client (by andriyko).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 107713657,
+                    "language": "Python",
+                    "last_commit": "2020-03-16T05:19:47Z",
+                    "owner": "andriyko",
+                    "repo": "aiociscospark",
+                    "stars": 7
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Ruby",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cisco_spark-ruby",
+                  "description": "Ruby client (by NGMarmaduke).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55861764,
+                    "language": "Ruby",
+                    "last_commit": "2024-06-07T11:35:02Z",
+                    "owner": "NGMarmaduke",
+                    "repo": "cisco_spark-ruby",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ciscospark-ruby",
+                  "description": "REST kit for Ruby (by chadstachowicz).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69143741,
+                    "language": "Ruby",
+                    "last_commit": "2016-11-18T14:57:59Z",
+                    "owner": "Cloverhound",
+                    "repo": "ciscospark-ruby",
+                    "stars": 2
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "REST API clients"
         },
         {
-          "node_type": "group",
-          "title": "Elixir",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "ex_webexteams",
-              "description": "Elixir package (by zpeters).",
+              "title": "SDK for Browsers",
+              "description": "Integrate calling into your client-side JavaScript applications (by Cisco Webex).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Elixir",
-                "last_commit": "2023-12-11T13:37:08Z",
-                "owner": "zpeters",
-                "repo": "ex_webexteams",
-                "stars": 4
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Go",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "go-cisco-webex-teams",
-              "description": "A Go client library (by jbogarin).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2022-10-09T21:41:57Z",
-                "owner": "jbogarin",
-                "repo": "go-cisco-webex-teams",
-                "stars": 37
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Haskell",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "webex-teams-api",
-              "description": "A Haskell binding (by nshimaza).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Haskell",
-                "last_commit": "2020-07-29T15:08:27Z",
-                "owner": "nshimaza",
-                "repo": "webex-teams-api",
-                "stars": 7
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Java",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "webex-java-sdk",
-              "description": "A Java library for consuming the RESTful APIs (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2021-10-19T17:38:34Z",
-                "owner": "webex",
-                "repo": "webex-java-sdk",
-                "stars": 70
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Node.js",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "webex-js-sdk",
-              "description": "Wrapper maintained by Cisco's engineering group (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T14:53:37Z",
+                "last_commit": "2026-08-18T14:37:48Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 203
@@ -362,727 +560,566 @@
             },
             {
               "node_type": "item",
-              "title": "sparky",
-              "description": "A simple API wrapper for Node.js (by nmarus).",
+              "title": "Widgets",
+              "description": "React components that mimic the Web user experience (by Cisco Webex).",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76988408,
                 "language": "JavaScript",
-                "last_commit": "2022-12-07T17:31:27Z",
-                "owner": "flint-bot",
-                "repo": "sparky",
-                "stars": 17
+                "last_commit": "2026-05-27T10:35:10Z",
+                "owner": "webex",
+                "repo": "react-widgets",
+                "stars": 84
               }
             },
             {
               "node_type": "item",
-              "title": "sparkclient",
-              "description": "A simple Node.js module (by marchfederico).",
+              "title": "SDK for iOS",
+              "description": "Integrate messaging and calling in your iOS apps (by Cisco Webex).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-03-29T23:11:32Z",
-                "owner": "marchfederico",
-                "repo": "node-sparkclient",
-                "stars": 7
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Perl",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "cisco_spark-perl",
-              "description": "Asynchronous Bot and HTTP Client Library (by akalinux).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Perl",
-                "last_commit": "2025-09-17T00:40:02Z",
-                "owner": "akalinux",
-                "repo": "cisco_spark-perl",
-                "stars": 3
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PHP",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SparkBundle",
-              "description": "Symfony bundle (by CiscoVE).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2018-03-29T15:15:18Z",
-                "owner": "CiscoVE",
-                "repo": "SparkBundle",
-                "stars": 1
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Python",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "webexteamssdk",
-              "description": "(formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-24T01:30:19Z",
-                "owner": "WebexCommunity",
-                "repo": "WebexPythonSDK",
-                "stars": 256
+                "id": 58420649,
+                "language": "Swift",
+                "last_commit": "2019-04-04T22:53:36Z",
+                "owner": "webex",
+                "repo": "spark-ios-sdk",
+                "stars": 35
               }
             },
             {
               "node_type": "item",
-              "title": "pyCiscoSpark",
-              "description": "Python library (by brbester).",
+              "title": "SDK for Android",
+              "description": "Integrate messaging and calling in your Android apps (by Cisco Webex).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2017-11-16T18:12:39Z",
-                "owner": "brbester",
-                "repo": "pyCiscoSpark",
-                "stars": 30
+                "id": 104698453,
+                "language": "Java",
+                "last_commit": "2019-04-03T22:46:12Z",
+                "owner": "webex",
+                "repo": "spark-android-sdk",
+                "stars": 10
               }
             },
             {
               "node_type": "item",
-              "title": "aiociscospark",
-              "description": "Python 3 asynchronous API client (by andriyko).",
+              "title": "SDK for Windows",
+              "description": "Integrate messaging and calling in your Windows apps (by Cisco Webex).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2020-03-16T05:19:47Z",
-                "owner": "andriyko",
-                "repo": "aiociscospark",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "spark-python-sdk",
-              "description": "Python module for consuming the RESTful APIs (by Bassintag551).",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Ruby",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "cisco_spark-ruby",
-              "description": "Ruby client (by NGMarmaduke).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Ruby",
-                "last_commit": "2024-06-07T11:35:02Z",
-                "owner": "NGMarmaduke",
-                "repo": "cisco_spark-ruby",
-                "stars": 9
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ciscospark-ruby",
-              "description": "REST kit for Ruby (by chadstachowicz).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Ruby",
-                "last_commit": "2016-11-18T14:57:59Z",
-                "owner": "Cloverhound",
-                "repo": "ciscospark-ruby",
+                "id": 116932911,
+                "language": "C#",
+                "last_commit": "2018-08-03T06:57:01Z",
+                "owner": "webex",
+                "repo": "spark-windows-sdk",
                 "stars": 2
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced APIs"
         }
       ],
-      "title": "REST API clients"
+      "title": "Client SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "SDK for Browsers",
-          "description": "Integrate calling into your client-side JavaScript applications (by Cisco Webex).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T14:53:37Z",
-            "owner": "webex",
-            "repo": "webex-js-sdk",
-            "stars": 203
-          }
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Node.js",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "integration-sample",
+                  "description": "Creating a server-side OAuth integration (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72461238,
+                    "language": "JavaScript",
+                    "last_commit": "2021-07-28T11:51:38Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "webex-integration-sample",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spark-messages",
+                  "description": "A collection of helpers to ensure consistent formatting of markdown messages (by brh55).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 80848340,
+                    "language": "JavaScript",
+                    "last_commit": "2017-02-18T22:58:09Z",
+                    "owner": "brh55",
+                    "repo": "spark-messages",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "node-sparky-samples",
+                  "description": "Client samples with node-sparky (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98291366,
+                    "language": "JavaScript",
+                    "last_commit": "2017-12-07T06:29:12Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "node-sparky-samples",
+                    "stars": 1
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Ruby",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fault Report",
+                  "description": "Reporting dystem for efficient Fault Resolution (by jfield44).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59436557,
+                    "language": "CSS",
+                    "last_commit": "2016-05-22T22:41:09Z",
+                    "owner": "jfield44",
+                    "repo": "TropoFaultReport",
+                    "stars": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "REST API samples"
         },
         {
-          "node_type": "item",
-          "title": "Widgets",
-          "description": "React components that mimic the Web user experience (by Cisco Webex).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-27T10:35:10Z",
-            "owner": "webex",
-            "repo": "react-widgets",
-            "stars": 84
-          }
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Java",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Midori",
+                  "description": "An extensible chat robot platform (by midoricorp).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20357183,
+                    "language": "Java",
+                    "last_commit": "2022-11-16T09:26:23Z",
+                    "owner": "midoricorp",
+                    "repo": "jabbot",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QuizBot",
+                  "description": "Answer a technology quiz, get scored (by LucaCalabrese).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83782878,
+                    "language": "Java",
+                    "last_commit": "2017-05-30T12:39:18Z",
+                    "owner": "LucaCalabrese",
+                    "repo": "codemotion-spark-bot",
+                    "stars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Node.js",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sparkbot-samples",
+                  "description": "Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71787007,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-10T16:24:46Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "node-sparkbot-samples",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "email2spark",
+                  "description": "Move an email thread to a space using Mailgun (by marchfederico).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65934610,
+                    "language": "JavaScript",
+                    "last_commit": "2017-06-08T03:54:45Z",
+                    "owner": "marchfederico",
+                    "repo": "email2spark",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-spark-bot",
+                  "description": "A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 80187859,
+                    "language": "JavaScript",
+                    "last_commit": "2017-03-21T21:19:55Z",
+                    "owner": "brh55",
+                    "repo": "generator-spark-bot",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sparkbotstarter",
+                  "description": "Starter kit for a simple bot leveraging flint (by valgaze).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69758931,
+                    "language": "JavaScript",
+                    "last_commit": "2018-03-19T20:31:39Z",
+                    "owner": "valgaze",
+                    "repo": "sparkbotstarter",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zbot",
+                  "description": "Play the Zork interactive game in spaces (by akalsey).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 76758356,
+                    "language": "JavaScript",
+                    "last_commit": "2017-12-16T00:53:08Z",
+                    "owner": "akalsey",
+                    "repo": "zbot",
+                    "stars": 5
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Node.js (Botkit)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "botkit samples",
+                  "description": "Conversational bot samples built with Botkit (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78523648,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-12T05:03:46Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "botkit-webex-samples",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "botkit-template",
+                  "description": "Best practices to bootstrap a Botkit project (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103621167,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-16T19:12:09Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "botkit-template",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ciscospark-jira",
+                  "description": "Jira bot built with Botkit (by patricksmith).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 87552726,
+                    "language": "JavaScript",
+                    "last_commit": "2017-11-22T20:34:32Z",
+                    "owner": "ModusCreateOrg",
+                    "repo": "ciscospark-jira",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spark-botkit-servicenow",
+                  "description": "ServiceNow bot built with Botkit (by asynchrony-ringo).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90308940,
+                    "language": "JavaScript",
+                    "last_commit": "2017-05-31T16:05:53Z",
+                    "owner": "asynchrony-ringo",
+                    "repo": "spark-botkit-servicenow",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spark-botkit-salesforce",
+                  "description": "SalesForce bot built with Botkit (by asynchrony-ringo).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90309116,
+                    "language": "JavaScript",
+                    "last_commit": "2017-05-31T16:06:36Z",
+                    "owner": "asynchrony-ringo",
+                    "repo": "spark-botkit-salesforce",
+                    "stars": 0
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PHP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "botman-spark-demo",
+                  "description": "Use BotMan in combination with the REST API (by mpociot).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95463104,
+                    "language": "PHP",
+                    "last_commit": "2017-09-27T08:13:45Z",
+                    "owner": "mpociot",
+                    "repo": "botman-spark-demo",
+                    "stars": 5
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Python",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ciscosparkapi bots",
+                  "description": "Flask, webpy and pyramid bot examples (by cmlccie).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63186293,
+                    "language": "Python",
+                    "last_commit": "2026-05-24T01:30:19Z",
+                    "owner": "WebexCommunity",
+                    "repo": "WebexPythonSDK",
+                    "stars": 256
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Room Finder",
+                  "description": "Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63966165,
+                    "language": "Python",
+                    "last_commit": "2018-02-12T16:13:51Z",
+                    "owner": "GuillaumeMorini",
+                    "repo": "roomfinder",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pyIntegration",
+                  "description": "Flask OAuth example utilizing ciscosparkapi (by lorashley).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133540806,
+                    "language": "HTML",
+                    "last_commit": "2022-12-08T02:05:33Z",
+                    "owner": "CiscoCollabTME",
+                    "repo": "pyIntegration",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "My Hero",
+                  "description": "Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 57000524,
+                    "language": "Python",
+                    "last_commit": "2018-01-03T15:45:09Z",
+                    "owner": "hpreston",
+                    "repo": "myhero_spark",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bot samples"
         },
         {
-          "node_type": "item",
-          "title": "SDK for iOS",
-          "description": "Integrate messaging and calling in your iOS apps (by Cisco Webex).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-04-04T22:53:36Z",
-            "owner": "webex",
-            "repo": "spark-ios-sdk",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SDK for Android",
-          "description": "Integrate messaging and calling in your Android apps (by Cisco Webex).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-04-03T22:46:12Z",
-            "owner": "webex",
-            "repo": "spark-android-sdk",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SDK for Windows",
-          "description": "Integrate messaging and calling in your Windows apps (by Cisco Webex).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-08-03T06:57:01Z",
-            "owner": "webex",
-            "repo": "spark-windows-sdk",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Android",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kitchen Sink",
+                  "description": "Developer friendly sample to showcase the Android SDK features (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104697991,
+                    "language": "Java",
+                    "last_commit": "2018-08-23T10:19:53Z",
+                    "owner": "webex",
+                    "repo": "spark-android-sdk-example",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Goggles",
+                  "description": "‘You See What I See’ remote expert app for augmented reality headsets (by Promptworks).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 115447185,
+                    "language": "JavaScript",
+                    "last_commit": "2018-02-21T20:06:49Z",
+                    "owner": "ModusCreateOrg",
+                    "repo": "spark-goggles",
+                    "stars": 0
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "iOS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kitchen Sink",
+                  "description": "Developer friendly sample to showcase the iOS SDK features (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59546312,
+                    "language": "Swift",
+                    "last_commit": "2018-08-09T02:46:23Z",
+                    "owner": "webex",
+                    "repo": "spark-ios-sdk-example",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iOS SDK Wrapper",
+                  "description": "Wrapper library offering a drop in voice and video calling component (by jfield44).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 89103865,
+                    "language": "Swift",
+                    "last_commit": "2017-06-17T14:26:12Z",
+                    "owner": "jfield44",
+                    "repo": "SparkSDKWrapper",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Buddies",
+                  "description": "Application which combines message/call in a UI (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106379685,
+                    "language": "Swift",
+                    "last_commit": "2018-08-10T02:13:45Z",
+                    "owner": "webex",
+                    "repo": "spark-ios-sdk-example-buddies",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Notification Server",
+                  "description": "Receive Incoming Call Notifications using Apple Push Notification Service (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106810447,
+                    "language": "Java",
+                    "last_commit": "2024-02-22T00:14:27Z",
+                    "owner": "webex",
+                    "repo": "spark-ios-sdk-example-push-notification-server",
+                    "stars": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile samples"
         }
       ],
-      "title": "Advanced APIs"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Code samples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Node.js",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "integration-sample",
-              "description": "Creating a server-side OAuth integration (by ObjectIsAdvantag).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2021-07-28T11:51:38Z",
-                "owner": "CiscoDevNet",
-                "repo": "webex-integration-sample",
-                "stars": 26
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "spark-messages",
-              "description": "A collection of helpers to ensure consistent formatting of markdown messages (by brh55).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-02-18T22:58:09Z",
-                "owner": "brh55",
-                "repo": "spark-messages",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "node-sparky-samples",
-              "description": "Client samples with node-sparky (by ObjectIsAdvantag).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-12-07T06:29:12Z",
-                "owner": "CiscoDevNet",
-                "repo": "node-sparky-samples",
-                "stars": 1
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Python",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Blog companions",
-              "description": "Simple scripts and bots (by Webex Developer support).",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Ruby",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Fault Report",
-              "description": "Reporting dystem for efficient Fault Resolution (by jfield44).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "CSS",
-                "last_commit": "2016-05-22T22:41:09Z",
-                "owner": "jfield44",
-                "repo": "TropoFaultReport",
-                "stars": 2
-              }
-            }
-          ]
-        }
-      ],
-      "title": "REST API samples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Java",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Midori",
-              "description": "An extensible chat robot platform (by midoricorp).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2022-11-16T09:26:23Z",
-                "owner": "midoricorp",
-                "repo": "jabbot",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "QuizBot",
-              "description": "Answer a technology quiz, get scored (by LucaCalabrese).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2017-05-30T12:39:18Z",
-                "owner": "LucaCalabrese",
-                "repo": "codemotion-spark-bot",
-                "stars": 3
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Node.js",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "sparkbot-samples",
-              "description": "Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2022-12-10T16:24:46Z",
-                "owner": "CiscoDevNet",
-                "repo": "node-sparkbot-samples",
-                "stars": 21
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "email2spark",
-              "description": "Move an email thread to a space using Mailgun (by marchfederico).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-06-08T03:54:45Z",
-                "owner": "marchfederico",
-                "repo": "email2spark",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "generator-spark-bot",
-              "description": "A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-03-21T21:19:55Z",
-                "owner": "brh55",
-                "repo": "generator-spark-bot",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sparkbotstarter",
-              "description": "Starter kit for a simple bot leveraging flint (by valgaze).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2018-03-19T20:31:39Z",
-                "owner": "valgaze",
-                "repo": "sparkbotstarter",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "zbot",
-              "description": "Play the Zork interactive game in spaces (by akalsey).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-12-16T00:53:08Z",
-                "owner": "akalsey",
-                "repo": "zbot",
-                "stars": 5
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Node.js (Botkit)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "botkit samples",
-              "description": "Conversational bot samples built with Botkit (by ObjectIsAdvantag).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2022-12-12T05:03:46Z",
-                "owner": "CiscoDevNet",
-                "repo": "botkit-webex-samples",
-                "stars": 47
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "botkit-template",
-              "description": "Best practices to bootstrap a Botkit project (by ObjectIsAdvantag).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2023-02-16T19:12:09Z",
-                "owner": "CiscoDevNet",
-                "repo": "botkit-template",
-                "stars": 47
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ciscospark-jira",
-              "description": "Jira bot built with Botkit (by patricksmith).",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "JavaScript",
-                "last_commit": "2017-11-22T20:34:32Z",
-                "owner": "ModusCreateOrg",
-                "repo": "ciscospark-jira",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "spark-botkit-servicenow",
-              "description": "ServiceNow bot built with Botkit (by asynchrony-ringo).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-05-31T16:05:53Z",
-                "owner": "asynchrony-ringo",
-                "repo": "spark-botkit-servicenow",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "spark-botkit-salesforce",
-              "description": "SalesForce bot built with Botkit (by asynchrony-ringo).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-05-31T16:06:36Z",
-                "owner": "asynchrony-ringo",
-                "repo": "spark-botkit-salesforce",
-                "stars": 0
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PHP",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "botman-spark-demo",
-              "description": "Use BotMan in combination with the REST API (by mpociot).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2017-09-27T08:13:45Z",
-                "owner": "mpociot",
-                "repo": "botman-spark-demo",
-                "stars": 5
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Python",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ciscosparkapi bots",
-              "description": "Flask, webpy and pyramid bot examples (by cmlccie).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-24T01:30:19Z",
-                "owner": "WebexCommunity",
-                "repo": "WebexPythonSDK",
-                "stars": 256
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Room Finder",
-              "description": "Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2018-02-12T16:13:51Z",
-                "owner": "GuillaumeMorini",
-                "repo": "roomfinder",
-                "stars": 16
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "pyIntegration",
-              "description": "Flask OAuth example utilizing ciscosparkapi (by lorashley).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2022-12-08T02:05:33Z",
-                "owner": "CiscoCollabTME",
-                "repo": "pyIntegration",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "My Hero",
-              "description": "Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2018-01-03T15:45:09Z",
-                "owner": "hpreston",
-                "repo": "myhero_spark",
-                "stars": 1
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Bot samples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Android",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Kitchen Sink",
-              "description": "Developer friendly sample to showcase the Android SDK features (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2018-08-23T10:19:53Z",
-                "owner": "webex",
-                "repo": "spark-android-sdk-example",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Goggles",
-              "description": "‘You See What I See’ remote expert app for augmented reality headsets (by Promptworks).",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "JavaScript",
-                "last_commit": "2018-02-21T20:06:49Z",
-                "owner": "ModusCreateOrg",
-                "repo": "spark-goggles",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Wrapper",
-              "description": "Embed video calls into your Android App in a few lines of code (by weddle).",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "iOS",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Kitchen Sink",
-              "description": "Developer friendly sample to showcase the iOS SDK features (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Swift",
-                "last_commit": "2018-08-09T02:46:23Z",
-                "owner": "webex",
-                "repo": "spark-ios-sdk-example",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "iOS SDK Wrapper",
-              "description": "Wrapper library offering a drop in voice and video calling component (by jfield44).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Swift",
-                "last_commit": "2017-06-17T14:26:12Z",
-                "owner": "jfield44",
-                "repo": "SparkSDKWrapper",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Buddies",
-              "description": "Application which combines message/call in a UI (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Swift",
-                "last_commit": "2018-08-10T02:13:45Z",
-                "owner": "webex",
-                "repo": "spark-ios-sdk-example-buddies",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Notification Server",
-              "description": "Receive Incoming Call Notifications using Apple Push Notification Service (by Cisco Webex).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2024-02-22T00:14:27Z",
-                "owner": "webex",
-                "repo": "spark-ios-sdk-example-push-notification-server",
-                "stars": 0
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Mobile samples"
     },
     {
       "description": "Handy tools to browse or interact with the APIs",
@@ -1094,6 +1131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179256162,
             "language": "Python",
             "last_commit": "2026-06-20T16:41:12Z",
             "owner": "DJF3",
@@ -1108,6 +1146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86751909,
             "language": "JavaScript",
             "last_commit": "2024-06-29T08:33:21Z",
             "owner": "marchfederico",
@@ -1122,6 +1161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55501828,
             "language": "Go",
             "last_commit": "2017-05-09T15:56:22Z",
             "owner": "tdeckers",
@@ -1136,6 +1176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63189519,
             "language": "Go",
             "last_commit": "2016-08-03T14:03:52Z",
             "owner": "sgrimee",
@@ -1150,6 +1191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136010734,
             "language": "JavaScript",
             "last_commit": "2022-12-22T13:47:19Z",
             "owner": "ObjectIsAdvantag",
@@ -1169,6 +1211,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69255540,
                 "language": null,
                 "last_commit": "2025-01-31T22:43:15Z",
                 "owner": "WebexSamples",
@@ -1183,6 +1226,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 274696918,
                 "language": null,
                 "last_commit": "2023-11-07T16:00:24Z",
                 "owner": "webex",
@@ -1197,6 +1241,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 265575288,
                 "language": null,
                 "last_commit": "2022-09-15T01:53:39Z",
                 "owner": "webex",
@@ -1211,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:13:13.482Z",
+    "last_updated": "2026-08-19T07:13:31.141Z",
     "original_repository": "CiscoDevNet/awesome-webex",
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",
     "enhanced_repository": "enhansome/enhansome-webex",
