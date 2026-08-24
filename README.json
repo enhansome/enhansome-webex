@@ -365,7 +365,7 @@
                     "archived": false,
                     "id": 62836827,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T04:55:31Z",
+                    "last_commit": "2026-08-24T13:06:06Z",
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 204
@@ -552,7 +552,7 @@
                 "archived": false,
                 "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T04:55:31Z",
+                "last_commit": "2026-08-24T13:06:06Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 204
@@ -1117,6 +1117,95 @@
           "description": null,
           "node_type": "group",
           "title": "Mobile samples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Widgets",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "widget-space-demo",
+                  "description": "Source code for the Space Widget Demo (by Cisco Webex).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 76988408,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-27T10:35:10Z",
+                    "owner": "webex",
+                    "repo": "react-widgets",
+                    "stars": 84
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "widget-samples",
+                  "description": "Examples for the Space and Recents widgets (by ObjectIsAdvantag).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 118972884,
+                    "language": "HTML",
+                    "last_commit": "2020-05-27T13:37:19Z",
+                    "owner": "CiscoDevNet",
+                    "repo": "webex-widget-samples",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "oauth-example",
+                  "description": "Widget OAuth example with the JavaScript SDK (by adamweeks).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 113239274,
+                    "language": "JavaScript",
+                    "last_commit": "2018-01-26T21:20:59Z",
+                    "owner": "adamweeks",
+                    "repo": "spark-widget-oauth-example",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webdialer",
+                  "description": "Test calls and overlay an existing Web site (by achhabra2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108660692,
+                    "language": "JavaScript",
+                    "last_commit": "2018-10-18T20:00:47Z",
+                    "owner": "achhabra2",
+                    "repo": "webdialer",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "custom-menu",
+                  "description": "Creating custom activities (by adamweeks).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117576598,
+                    "language": "JavaScript",
+                    "last_commit": "2018-01-26T21:23:57Z",
+                    "owner": "adamweeks",
+                    "repo": "spark-widget-custom-menu",
+                    "stars": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web SDK & Widgets samples"
         }
       ],
       "title": "Code samples"
@@ -1256,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:35:17.803Z",
+    "last_updated": "2026-08-24T14:35:02.899Z",
     "original_repository": "CiscoDevNet/awesome-webex",
     "original_repository_id": 65803220,
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",

@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,080 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,745 | 🐛 16 | 🌐 Python | 📅 2026-08-24.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,112 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,800 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -147,11 +147,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * SDK for Browsers
   * [call samples](https://developer.webex.com/docs/sdks/browser#samples) - Offical samples of the Browser SDK in action (by Cisco Webex).
 * Widgets
-  * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-26 - Creating custom activities (by adamweeks).
+  * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-27 - Source code for the Space Widget Demo (by Cisco Webex).
+  * [widget-samples](https://github.com/CiscoDevNet/widget-samples) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2020-05-27 - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
   * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-26 - Widget OAuth example with the JavaScript SDK (by adamweeks).
   * [webdialer](https://github.com/achhabra2/webdialer) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-18 - Test calls and overlay an existing Web site (by achhabra2).
-  * [widget-samples](https://github.com/CiscoDevNet/widget-samples) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2020-05-27 - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
-  * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-05-27 - Source code for the Space Widget Demo (by Cisco Webex).
+  * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-26 - Creating custom activities (by adamweeks).
 
 ## Developer Tools
 
