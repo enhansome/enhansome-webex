@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,112 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,800 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,172 | 🐛 216 | 🌐 Go | 📅 2026-08-25 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,922 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -116,7 +116,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
   * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-19 - Starter kit for a simple bot leveraging flint (by valgaze).
   * [zbot](https://github.com/akalsey/zbot) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2017-12-16 - Play the Zork interactive game in spaces (by akalsey).
 * Node.js (Botkit)
-  * [botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) ⭐ 47 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-12 - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
+  * [botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) ⭐ 48 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-12 - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
   * [botkit-template](https://github.com/CiscoDevNet/botkit-template) ⭐ 47 | 🐛 6 | 🌐 JavaScript | 📅 2023-02-16 - Best practices to bootstrap a Botkit project (by ObjectIsAdvantag).
   * [ciscospark-jira](https://github.com/promptworks/ciscospark-jira) ⚠️ Archived - Jira bot built with Botkit (by patricksmith).
   * [spark-botkit-servicenow](https://github.com/asynchrony-ringo/spark-botkit-servicenow) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-31 - ServiceNow bot built with Botkit (by asynchrony-ringo).
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
