@@ -210,7 +210,7 @@
                 "archived": false,
                 "id": 146394957,
                 "language": "Python",
-                "last_commit": "2026-03-07T13:00:28Z",
+                "last_commit": "2026-08-26T06:51:10Z",
                 "owner": "marksull",
                 "repo": "err-backend-cisco-webex-teams",
                 "stars": 24
@@ -365,7 +365,7 @@
                     "archived": false,
                     "id": 62836827,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:47:06Z",
+                    "last_commit": "2026-08-25T16:04:16Z",
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 204
@@ -552,7 +552,7 @@
                 "archived": false,
                 "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:47:06Z",
+                "last_commit": "2026-08-25T16:04:16Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 204
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:23:52.961Z",
+    "last_updated": "2026-08-26T07:23:39.156Z",
     "original_repository": "CiscoDevNet/awesome-webex",
     "original_repository_id": 65803220,
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",
