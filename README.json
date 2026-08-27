@@ -365,7 +365,7 @@
                     "archived": false,
                     "id": 62836827,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T15:41:46Z",
+                    "last_commit": "2026-08-27T13:31:33Z",
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 204
@@ -552,7 +552,7 @@
                 "archived": false,
                 "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:41:46Z",
+                "last_commit": "2026-08-27T13:31:33Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 204
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:05.280Z",
+    "last_updated": "2026-08-27T17:44:06.227Z",
     "original_repository_info": {
       "archived": false,
       "id": 65803220,
