@@ -21,7 +21,8 @@
                 "owner": "CiscoDevNet",
                 "repo": "odl-sparkbot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         },
@@ -42,8 +43,9 @@
                 "last_commit": "2024-07-01T02:28:35Z",
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11580
-              }
+                "stars": 11582
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -58,7 +60,8 @@
                 "owner": "SAP-archive",
                 "repo": "bot-connector",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -73,7 +76,8 @@
                 "owner": "flint-bot",
                 "repo": "flint",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -88,7 +92,8 @@
                 "owner": "WebexCommunity",
                 "repo": "webex-node-bot-framework",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -103,7 +108,8 @@
                 "owner": "CiscoDevNet",
                 "repo": "node-sparkbot",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -118,7 +124,8 @@
                 "owner": "tonybaloney",
                 "repo": "hubot-spark",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -133,7 +140,8 @@
                 "owner": "marchfederico",
                 "repo": "hubot-sparkwebhook",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         },
@@ -155,7 +163,8 @@
                 "owner": "akalinux",
                 "repo": "cisco_spark-perl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         },
@@ -177,7 +186,8 @@
                 "owner": "botman",
                 "repo": "driver-cisco-spark",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         },
@@ -199,7 +209,8 @@
                 "owner": "hpreston",
                 "repo": "webexteamsbot",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -214,7 +225,8 @@
                 "owner": "marksull",
                 "repo": "err-backend-cisco-webex-teams",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -229,7 +241,8 @@
                 "owner": "panholt",
                 "repo": "err-backend-cisco-spark",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         }
@@ -259,7 +272,8 @@
                     "owner": "darrenparkinson",
                     "repo": "SparkDotNet",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -281,7 +295,8 @@
                     "owner": "zpeters",
                     "repo": "ex_webexteams",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -303,7 +318,8 @@
                     "owner": "jbogarin",
                     "repo": "go-cisco-webex-teams",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -325,7 +341,8 @@
                     "owner": "nshimaza",
                     "repo": "webex-teams-api",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -347,7 +364,8 @@
                     "owner": "webex",
                     "repo": "webex-java-sdk",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -365,11 +383,12 @@
                     "archived": false,
                     "id": 62836827,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T13:31:33Z",
+                    "last_commit": "2026-08-28T13:46:48Z",
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -384,7 +403,8 @@
                     "owner": "flint-bot",
                     "repo": "sparky",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -399,7 +419,8 @@
                     "owner": "marchfederico",
                     "repo": "node-sparkclient",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -421,7 +442,8 @@
                     "owner": "akalinux",
                     "repo": "cisco_spark-perl",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -443,7 +465,8 @@
                     "owner": "CiscoVE",
                     "repo": "SparkBundle",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -465,7 +488,8 @@
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
                     "stars": 256
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -480,7 +504,8 @@
                     "owner": "brbester",
                     "repo": "pyCiscoSpark",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -495,7 +520,8 @@
                     "owner": "andriyko",
                     "repo": "aiociscospark",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -517,7 +543,8 @@
                     "owner": "NGMarmaduke",
                     "repo": "cisco_spark-ruby",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -532,7 +559,8 @@
                     "owner": "Cloverhound",
                     "repo": "ciscospark-ruby",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             }
@@ -552,11 +580,12 @@
                 "archived": false,
                 "id": 62836827,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:31:33Z",
+                "last_commit": "2026-08-28T13:46:48Z",
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -571,7 +600,8 @@
                 "owner": "webex",
                 "repo": "react-widgets",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -586,7 +616,8 @@
                 "owner": "webex",
                 "repo": "spark-ios-sdk",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -601,7 +632,8 @@
                 "owner": "webex",
                 "repo": "spark-android-sdk",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -616,7 +648,8 @@
                 "owner": "webex",
                 "repo": "spark-windows-sdk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ],
           "description": null,
@@ -649,7 +682,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "webex-integration-sample",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -664,7 +698,8 @@
                     "owner": "brh55",
                     "repo": "spark-messages",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -679,7 +714,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "node-sparky-samples",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -701,7 +737,8 @@
                     "owner": "jfield44",
                     "repo": "TropoFaultReport",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             }
@@ -730,7 +767,8 @@
                     "owner": "midoricorp",
                     "repo": "jabbot",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -745,7 +783,8 @@
                     "owner": "LucaCalabrese",
                     "repo": "codemotion-spark-bot",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -767,7 +806,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "node-sparkbot-samples",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +822,8 @@
                     "owner": "marchfederico",
                     "repo": "email2spark",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +838,8 @@
                     "owner": "brh55",
                     "repo": "generator-spark-bot",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +854,8 @@
                     "owner": "valgaze",
                     "repo": "sparkbotstarter",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -827,7 +870,8 @@
                     "owner": "akalsey",
                     "repo": "zbot",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -849,7 +893,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "botkit-webex-samples",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -864,7 +909,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "botkit-template",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -879,7 +925,8 @@
                     "owner": "ModusCreateOrg",
                     "repo": "ciscospark-jira",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -894,7 +941,8 @@
                     "owner": "asynchrony-ringo",
                     "repo": "spark-botkit-servicenow",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -909,7 +957,8 @@
                     "owner": "asynchrony-ringo",
                     "repo": "spark-botkit-salesforce",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -931,7 +980,8 @@
                     "owner": "mpociot",
                     "repo": "botman-spark-demo",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -953,7 +1003,8 @@
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
                     "stars": 256
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -968,7 +1019,8 @@
                     "owner": "GuillaumeMorini",
                     "repo": "roomfinder",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -983,7 +1035,8 @@
                     "owner": "CiscoCollabTME",
                     "repo": "pyIntegration",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -998,7 +1051,8 @@
                     "owner": "hpreston",
                     "repo": "myhero_spark",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             }
@@ -1027,7 +1081,8 @@
                     "owner": "webex",
                     "repo": "spark-android-sdk-example",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1042,7 +1097,8 @@
                     "owner": "ModusCreateOrg",
                     "repo": "spark-goggles",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             },
@@ -1064,7 +1120,8 @@
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1079,7 +1136,8 @@
                     "owner": "jfield44",
                     "repo": "SparkSDKWrapper",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1094,7 +1152,8 @@
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example-buddies",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1109,7 +1168,8 @@
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example-push-notification-server",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             }
@@ -1138,7 +1198,8 @@
                     "owner": "webex",
                     "repo": "react-widgets",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1153,7 +1214,8 @@
                     "owner": "CiscoDevNet",
                     "repo": "webex-widget-samples",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1168,7 +1230,8 @@
                     "owner": "adamweeks",
                     "repo": "spark-widget-oauth-example",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1183,7 +1246,8 @@
                     "owner": "achhabra2",
                     "repo": "webdialer",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 },
                 {
                   "node_type": "item",
@@ -1198,7 +1262,8 @@
                     "owner": "adamweeks",
                     "repo": "spark-widget-custom-menu",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:53:11.467Z"
                 }
               ]
             }
@@ -1226,7 +1291,8 @@
             "owner": "DJF3",
             "repo": "Webex-Message-space-archiver",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T18:53:11.467Z"
         },
         {
           "node_type": "item",
@@ -1241,7 +1307,8 @@
             "owner": "marchfederico",
             "repo": "ciscospark-websocket-events",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:53:11.467Z"
         },
         {
           "node_type": "item",
@@ -1256,7 +1323,8 @@
             "owner": "tdeckers",
             "repo": "sparkcli",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T18:53:11.467Z"
         },
         {
           "node_type": "item",
@@ -1271,7 +1339,8 @@
             "owner": "sgrimee",
             "repo": "whproxy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:53:11.467Z"
         },
         {
           "node_type": "item",
@@ -1286,7 +1355,8 @@
             "owner": "ObjectIsAdvantag",
             "repo": "webex-guestissuer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:53:11.467Z"
         },
         {
           "node_type": "group",
@@ -1306,7 +1376,8 @@
                 "owner": "WebexSamples",
                 "repo": "postman-webex",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -1321,7 +1392,8 @@
                 "owner": "webex",
                 "repo": "postman-webex-calling",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             },
             {
               "node_type": "item",
@@ -1336,7 +1408,8 @@
                 "owner": "webex",
                 "repo": "postman-webex-meetings",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:53:11.467Z"
             }
           ]
         }
@@ -1345,7 +1418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:44:06.227Z",
+    "last_updated": "2026-08-28T18:53:11.467Z",
     "original_repository_info": {
       "archived": false,
       "id": 65803220,
