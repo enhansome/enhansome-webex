@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An SDK for creating OpenDaylight-based Cisco Spark client apps and bots",
+                "homepage": null,
                 "id": 75416398,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-12-20T15:49:04Z",
+                "open_issues": 1,
                 "owner": "CiscoDevNet",
                 "repo": "odl-sparkbot",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -38,12 +43,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.",
+                "homepage": null,
                 "id": 47851629,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T02:28:35Z",
+                "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11582
+                "stars": 11582,
+                "topics": [
+                  "bot",
+                  "bot-application",
+                  "botkit",
+                  "botkit-studio",
+                  "bots",
+                  "chatbot",
+                  "cisco-spark",
+                  "conversational-ui",
+                  "facebook",
+                  "facebook-bot",
+                  "facebook-messenger",
+                  "glitch",
+                  "making-bots",
+                  "microsoft-bot-framework",
+                  "microsoft-teams",
+                  "slack",
+                  "sms",
+                  "twilio",
+                  "web-bot",
+                  "workplacebyfacebook"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -54,12 +85,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bot Connector allows you to connect your bot to multiple messaging channels.",
+                "homepage": null,
                 "id": 74126906,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-26T15:47:27Z",
+                "open_issues": 15,
                 "owner": "SAP-archive",
                 "repo": "bot-connector",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "api",
+                  "bot",
+                  "bot-api",
+                  "bot-connector",
+                  "bot-endpoint",
+                  "bot-messenger",
+                  "bot-slack",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -70,12 +115,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webex Bot SDK for Node.js (deprecated in favor of https://github.com/webex/webex-bot-node-framework)",
+                "homepage": null,
                 "id": 51719063,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T11:51:59Z",
+                "open_issues": 20,
                 "owner": "flint-bot",
                 "repo": "flint",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "cisco",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -86,12 +139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for creating Webex Teams bots using node and express ",
+                "homepage": null,
                 "id": 226906078,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T03:44:22Z",
+                "open_issues": 0,
                 "owner": "WebexCommunity",
                 "repo": "webex-node-bot-framework",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -102,12 +160,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Webex ChatBots in JavaScript",
+                "homepage": "https://developer.webex.com/bots.html",
                 "id": 71452766,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-09-12T15:12:06Z",
+                "open_issues": 0,
                 "owner": "CiscoDevNet",
                 "repo": "node-sparkbot",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "chatbot",
+                  "ciscowebex",
+                  "nodejs",
+                  "webex",
+                  "webex-teams"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -118,12 +187,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A hubot integration for Cisco Spark",
+                "homepage": null,
                 "id": 54433723,
                 "language": "CoffeeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-07T11:51:03Z",
+                "open_issues": 8,
                 "owner": "tonybaloney",
                 "repo": "hubot-spark",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "hubot",
+                  "hubot-adapter",
+                  "hubot-spark"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -134,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cisco Spark adapter for Hubot",
+                "homepage": null,
                 "id": 64261560,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-01-16T20:03:49Z",
+                "open_issues": 0,
                 "owner": "marchfederico",
                 "repo": "hubot-sparkwebhook",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -157,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cisco Spark AnyEvent Implementation for perl",
+                "homepage": null,
                 "id": 124022846,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2025-09-17T00:40:02Z",
+                "open_issues": 0,
                 "owner": "akalinux",
                 "repo": "cisco_spark-perl",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -180,12 +268,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BotMan Cisco Spark Driver",
+                "homepage": null,
                 "id": 95457678,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-03-11T20:02:40Z",
+                "open_issues": 4,
                 "owner": "botman",
                 "repo": "driver-cisco-spark",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "botman",
+                  "botman-driver",
+                  "cisco-spark"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -203,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for creating Webex Teams chat bots. ",
+                "homepage": null,
                 "id": 157026180,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-26T20:46:37Z",
+                "open_issues": 12,
                 "owner": "hpreston",
                 "repo": "webexteamsbot",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -219,12 +321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Err Backend for Cisco Webex Teams",
+                "homepage": null,
                 "id": 146394957,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:17:41Z",
+                "open_issues": 0,
                 "owner": "marksull",
                 "repo": "err-backend-cisco-webex-teams",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -235,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An errbot backend for Cisco Spark",
+                "homepage": null,
                 "id": 63613425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-17T13:29:23Z",
+                "open_issues": 3,
                 "owner": "panholt",
                 "repo": "err-backend-cisco-spark",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -266,12 +378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An unofficial dotnet library for consuming RESTful APIs for Cisco Spark. Please visit Cisco at http://developer.ciscospark.com/.",
+                    "homepage": null,
                     "id": 74142799,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2022-06-22T15:23:16Z",
+                    "open_issues": 4,
                     "owner": "darrenparkinson",
                     "repo": "SparkDotNet",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -289,12 +406,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elixir package for Webex Teams",
+                    "homepage": null,
                     "id": 152519380,
                     "language": "Elixir",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-12-11T13:37:08Z",
+                    "open_issues": 12,
                     "owner": "zpeters",
                     "repo": "ex_webexteams",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -312,12 +434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Webex Teams Go SDK",
+                    "homepage": null,
                     "id": 134353833,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-10-09T21:41:57Z",
+                    "open_issues": 7,
                     "owner": "jbogarin",
                     "repo": "go-cisco-webex-teams",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -335,12 +462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Haskell binding of Cisco Webex Teams (formerly Cisco Spark) API",
+                    "homepage": null,
                     "id": 98136233,
                     "language": "Haskell",
+                    "license": "MIT",
                     "last_commit": "2020-07-29T15:08:27Z",
+                    "open_issues": 0,
                     "owner": "nshimaza",
                     "repo": "webex-teams-api",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -358,12 +490,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java library for consuming RESTful APIs for Cisco Spark",
+                    "homepage": null,
                     "id": 47515749,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-10-19T17:38:34Z",
+                    "open_issues": 3,
                     "owner": "webex",
                     "repo": "webex-java-sdk",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -381,12 +518,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript SDK for Webex",
+                    "homepage": "https://webex.github.io/webex-js-sdk/",
                     "id": 62836827,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T13:46:48Z",
+                    "open_issues": 104,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -397,12 +539,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Spark API for NodeJS (deprecated in favor of https://github.com/webex/webex-bot-node-framework)",
+                    "homepage": null,
                     "id": 54865333,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-07T17:31:27Z",
+                    "open_issues": 16,
                     "owner": "flint-bot",
                     "repo": "sparky",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "cisco",
+                      "spark"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -413,12 +563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple implementation of the Cisco Spark APIs",
+                    "homepage": null,
                     "id": 47990803,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-03-29T23:11:32Z",
+                    "open_issues": 1,
                     "owner": "marchfederico",
                     "repo": "node-sparkclient",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -436,12 +591,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Spark AnyEvent Implementation for perl",
+                    "homepage": null,
                     "id": 124022846,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2025-09-17T00:40:02Z",
+                    "open_issues": 0,
                     "owner": "akalinux",
                     "repo": "cisco_spark-perl",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -459,12 +619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Spark API Symfony2 Vendor Bundle",
+                    "homepage": null,
                     "id": 48879358,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2018-03-29T15:15:18Z",
+                    "open_issues": 0,
                     "owner": "CiscoVE",
                     "repo": "SparkBundle",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -482,12 +647,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Work with the Webex APIs in native Python!",
+                    "homepage": "https://webexcommunity.github.io/WebexPythonSDK/",
                     "id": 63186293,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-24T01:30:19Z",
+                    "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 256
+                    "stars": 256,
+                    "topics": [
+                      "cisco",
+                      "python",
+                      "python-library",
+                      "python-sdk",
+                      "python-wrapper",
+                      "python3",
+                      "webex",
+                      "webex-bot",
+                      "webex-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -498,12 +678,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python Library to Interface to Cisco Spark REST API",
+                    "homepage": null,
                     "id": 48495460,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-11-16T18:12:39Z",
+                    "open_issues": 1,
                     "owner": "brbester",
                     "repo": "pyCiscoSpark",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -514,12 +699,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python 3 asynchronous Cisco Spark API client",
+                    "homepage": "https://github.com/andriyko/aiociscospark",
                     "id": 107713657,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-16T05:19:47Z",
+                    "open_issues": 0,
                     "owner": "andriyko",
                     "repo": "aiociscospark",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "aiohttp",
+                      "api-client",
+                      "asyncio",
+                      "cisco-spark",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -537,12 +733,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby client for Spark: https://developer.ciscospark.com",
+                    "homepage": null,
                     "id": 55861764,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2024-06-07T11:35:02Z",
+                    "open_issues": 2,
                     "owner": "NGMarmaduke",
                     "repo": "cisco_spark-ruby",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -553,12 +754,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ciscospark REST Kit for Ruby",
+                    "homepage": null,
                     "id": 69143741,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2016-11-18T14:57:59Z",
+                    "open_issues": 1,
                     "owner": "Cloverhound",
                     "repo": "ciscospark-ruby",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -578,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript SDK for Webex",
+                "homepage": "https://webex.github.io/webex-js-sdk/",
                 "id": 62836827,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:46:48Z",
+                "open_issues": 104,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -594,12 +805,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React components and Redux modules for embedded Webex Teams",
+                "homepage": "https://developer.webex.com",
                 "id": 76988408,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T10:35:10Z",
+                "open_issues": 15,
                 "owner": "webex",
                 "repo": "react-widgets",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "javascript",
+                  "react",
+                  "webex",
+                  "webex-teams",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -610,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATE. Check our newer iOS SDK",
+                "homepage": "https://github.com/webex/webex-ios-sdk",
                 "id": 58420649,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-04T22:53:36Z",
+                "open_issues": 1,
                 "owner": "webex",
                 "repo": "spark-ios-sdk",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -626,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is DEPRECATED. Check our newer Android SDK",
+                "homepage": "https://github.com/webex/webex-android-sdk",
                 "id": 104698453,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-03T22:46:12Z",
+                "open_issues": 1,
                 "owner": "webex",
                 "repo": "spark-android-sdk",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -642,12 +874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrate Webex Teams into your Windows application quickly.",
+                "homepage": "https://webex.github.io/spark-windows-sdk/",
                 "id": 116932911,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-03T06:57:01Z",
+                "open_issues": 3,
                 "owner": "webex",
                 "repo": "spark-windows-sdk",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -676,12 +913,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Node.js example of OAuth Integration for Webex Teams",
+                    "homepage": "https://developer.cisco.com/learning/lab/collab-spark-intl/step/1",
                     "id": 72461238,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-07-28T11:51:38Z",
+                    "open_issues": 1,
                     "owner": "CiscoDevNet",
                     "repo": "webex-integration-sample",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "oauth-flow",
+                      "webex-teams"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -692,12 +937,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":speech_balloon: A collection of helpers to ensure consistent, predictable formatting of Cisco spark markdown messages",
+                    "homepage": null,
                     "id": 80848340,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-02-18T22:58:09Z",
+                    "open_issues": 1,
                     "owner": "brh55",
                     "repo": "spark-messages",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -708,12 +958,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Spark client samples with node-sparky",
+                    "homepage": null,
                     "id": 98291366,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-12-07T06:29:12Z",
+                    "open_issues": 0,
                     "owner": "CiscoDevNet",
                     "repo": "node-sparky-samples",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -731,12 +986,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple but powerful Fault Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution.",
+                    "homepage": null,
                     "id": 59436557,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2016-05-22T22:41:09Z",
+                    "open_issues": 0,
                     "owner": "jfield44",
                     "repo": "TropoFaultReport",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -761,12 +1021,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extensible, multi-protocol chat bot written in java",
+                    "homepage": "http://midoricorp.github.io/",
                     "id": 20357183,
                     "language": "Java",
+                    "license": "Artistic-2.0",
                     "last_commit": "2022-11-16T09:26:23Z",
+                    "open_issues": 18,
                     "owner": "midoricorp",
                     "repo": "jabbot",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "bot",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -777,12 +1045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spark Bot for Codemotion Rome 2017",
+                    "homepage": null,
                     "id": 83782878,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-05-30T12:39:18Z",
+                    "open_issues": 0,
                     "owner": "LucaCalabrese",
                     "repo": "codemotion-spark-bot",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -800,12 +1073,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chatbot samples leveraging the node-sparkbot library for Webex Teams",
+                    "homepage": "https://github.com/CiscoDevNet/node-sparkbot",
                     "id": 71787007,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-10T16:24:46Z",
+                    "open_issues": 11,
                     "owner": "CiscoDevNet",
                     "repo": "node-sparkbot-samples",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "chatbot",
+                      "webex-teams"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -816,12 +1097,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Move an email thread to Cisco Spark.",
+                    "homepage": null,
                     "id": 65934610,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-06-08T03:54:45Z",
+                    "open_issues": 0,
                     "owner": "marchfederico",
                     "repo": "email2spark",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -832,12 +1118,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":zap: Yeoman generator that scaffold out a Cisco spark bot with usability and simplicity in mind",
+                    "homepage": null,
                     "id": 80187859,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-03-21T21:19:55Z",
+                    "open_issues": 2,
                     "owner": "brh55",
                     "repo": "generator-spark-bot",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "cisco",
+                      "cisco-spark",
+                      "flint",
+                      "nodejs",
+                      "scaffold",
+                      "spark",
+                      "yeoman"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -848,12 +1147,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Starter kit template for a simple Cisco Spark bot ",
+                    "homepage": null,
                     "id": 69758931,
                     "language": "JavaScript",
+                    "license": "Unlicense",
                     "last_commit": "2018-03-19T20:31:39Z",
+                    "open_issues": 0,
                     "owner": "valgaze",
                     "repo": "sparkbotstarter",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -864,12 +1168,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Play Zork or other Interactive Fiction games over SMS with Tropo or in Cisco Spark rooms.",
+                    "homepage": null,
                     "id": 76758356,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-12-16T00:53:08Z",
+                    "open_issues": 1,
                     "owner": "akalsey",
                     "repo": "zbot",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -887,12 +1196,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chatbot samples for Webex Teams built with Botkit",
+                    "homepage": "https://developer.cisco.com/site/spark",
                     "id": 78523648,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-12T05:03:46Z",
+                    "open_issues": 12,
                     "owner": "CiscoDevNet",
                     "repo": "botkit-webex-samples",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "botkit",
+                      "chatbot",
+                      "cisco-webex",
+                      "webex-teams"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -903,12 +1222,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Botkit template for Webex Teams",
+                    "homepage": "https://learninglabs.cisco.com/tracks/collab-cloud/spark-apps/collab-spark-bot-hosting/step/1",
                     "id": 103621167,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-02-16T19:12:09Z",
+                    "open_issues": 6,
                     "owner": "CiscoDevNet",
                     "repo": "botkit-template",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "botkit",
+                      "cisco-webex",
+                      "glitch",
+                      "webex-teams"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -919,12 +1248,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "JIRA bot for Cisco Spark",
+                    "homepage": null,
                     "id": 87552726,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-11-22T20:34:32Z",
+                    "open_issues": 1,
                     "owner": "ModusCreateOrg",
                     "repo": "ciscospark-jira",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -935,12 +1269,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 90308940,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-05-31T16:05:53Z",
+                    "open_issues": 0,
                     "owner": "asynchrony-ringo",
                     "repo": "spark-botkit-servicenow",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -951,12 +1290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 90309116,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-05-31T16:06:36Z",
+                    "open_issues": 0,
                     "owner": "asynchrony-ringo",
                     "repo": "spark-botkit-salesforce",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -974,12 +1318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BotMan + Cisco Spark demo project",
+                    "homepage": null,
                     "id": 95463104,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2017-09-27T08:13:45Z",
+                    "open_issues": 0,
                     "owner": "mpociot",
                     "repo": "botman-spark-demo",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -997,12 +1346,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Work with the Webex APIs in native Python!",
+                    "homepage": "https://webexcommunity.github.io/WebexPythonSDK/",
                     "id": 63186293,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-24T01:30:19Z",
+                    "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 256
+                    "stars": 256,
+                    "topics": [
+                      "cisco",
+                      "python",
+                      "python-library",
+                      "python-sdk",
+                      "python-wrapper",
+                      "python3",
+                      "webex",
+                      "webex-bot",
+                      "webex-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1013,12 +1377,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Allow to search a conference room available for the next 2 hours",
+                    "homepage": null,
                     "id": 63966165,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-02-12T16:13:51Z",
+                    "open_issues": 0,
                     "owner": "GuillaumeMorini",
                     "repo": "roomfinder",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1029,12 +1398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python Flask Integration Demo",
+                    "homepage": null,
                     "id": 133540806,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T02:05:33Z",
+                    "open_issues": 6,
                     "owner": "CiscoCollabTME",
                     "repo": "pyIntegration",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1045,12 +1419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Cisco Spark Bot for the MyHero Demo",
+                    "homepage": null,
                     "id": 57000524,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-01-03T15:45:09Z",
+                    "open_issues": 2,
                     "owner": "hpreston",
                     "repo": "myhero_spark",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -1075,12 +1454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 104697991,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2018-08-23T10:19:53Z",
+                    "open_issues": 0,
                     "owner": "webex",
                     "repo": "spark-android-sdk-example",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1091,12 +1475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Cisco Spark Goggles App",
+                    "homepage": null,
                     "id": 115447185,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-02-21T20:06:49Z",
+                    "open_issues": 14,
                     "owner": "ModusCreateOrg",
                     "repo": "spark-goggles",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -1114,12 +1503,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A developer friendly sample implementation of Spark client SDK and showcases all SDK features.",
+                    "homepage": null,
                     "id": 59546312,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2018-08-09T02:46:23Z",
+                    "open_issues": 1,
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1130,12 +1524,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embed Voice and Video calling capabilities into your iOS App in 3 lines of code using the Cisco Spark SDK with this wrapper.",
+                    "homepage": null,
                     "id": 89103865,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2017-06-17T14:26:12Z",
+                    "open_issues": 0,
                     "owner": "jfield44",
                     "repo": "SparkSDKWrapper",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1146,12 +1545,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A user friendly sample implementation of Spark client SDK and showcases production scenarios with Spark-SDK APIs.",
+                    "homepage": null,
                     "id": 106379685,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2018-08-10T02:13:45Z",
+                    "open_issues": 1,
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example-buddies",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1162,12 +1566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 106810447,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-22T00:14:27Z",
+                    "open_issues": 2,
                     "owner": "webex",
                     "repo": "spark-ios-sdk-example-push-notification-server",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -1192,12 +1601,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React components and Redux modules for embedded Webex Teams",
+                    "homepage": "https://developer.webex.com",
                     "id": 76988408,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-27T10:35:10Z",
+                    "open_issues": 15,
                     "owner": "webex",
                     "repo": "react-widgets",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "javascript",
+                      "react",
+                      "webex",
+                      "webex-teams",
+                      "widget"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1208,12 +1628,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Examples for Webex Teams React Widgets",
+                    "homepage": "https://developer.webex.com/docs/widgets",
                     "id": 118972884,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2020-05-27T13:37:19Z",
+                    "open_issues": 2,
                     "owner": "CiscoDevNet",
                     "repo": "webex-widget-samples",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1224,12 +1649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cisco Spark Widget OAuth Example",
+                    "homepage": null,
                     "id": 113239274,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-01-26T21:20:59Z",
+                    "open_issues": 0,
                     "owner": "adamweeks",
                     "repo": "spark-widget-oauth-example",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1240,12 +1670,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web Dialer for Cisco Spark",
+                    "homepage": null,
                     "id": 108660692,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-10-18T20:00:47Z",
+                    "open_issues": 1,
                     "owner": "achhabra2",
                     "repo": "webdialer",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 },
@@ -1256,12 +1691,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 117576598,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-01-26T21:23:57Z",
+                    "open_issues": 0,
                     "owner": "adamweeks",
                     "repo": "spark-widget-custom-menu",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
                 }
@@ -1285,12 +1725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archive Cisco Webex Teams Space messages to a single HTML file. Highly configurable (download files/images, sort order, max messages or age, avatars, etc)",
+            "homepage": null,
             "id": 179256162,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-20T16:41:12Z",
+            "open_issues": 1,
             "owner": "DJF3",
             "repo": "Webex-Message-space-archiver",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:53:11.467Z"
         },
@@ -1301,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple way to get events through Cisco Spark's native websocket",
+            "homepage": null,
             "id": 86751909,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-29T08:33:21Z",
+            "open_issues": 9,
             "owner": "marchfederico",
             "repo": "ciscospark-websocket-events",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:53:11.467Z"
         },
@@ -1317,12 +1767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line interface to Cisco Spark",
+            "homepage": null,
             "id": 55501828,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-05-09T15:56:22Z",
+            "open_issues": 4,
             "owner": "tdeckers",
             "repo": "sparkcli",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:53:11.467Z"
         },
@@ -1333,12 +1788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WIP - Proxy incoming webhooks to established websockets",
+            "homepage": null,
             "id": 63189519,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-08-03T14:03:52Z",
+            "open_issues": 0,
             "owner": "sgrimee",
             "repo": "whproxy",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:53:11.467Z"
         },
@@ -1349,12 +1809,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI to generate Persistent Guests for Webex APIs, SDKs and Widgets",
+            "homepage": "https://developer.webex.com/guest-issuer.html",
             "id": 136010734,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-22T13:47:19Z",
+            "open_issues": 3,
             "owner": "ObjectIsAdvantag",
             "repo": "webex-guestissuer",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cisco-webex",
+              "cli",
+              "guest-issuer",
+              "webex-teams"
+            ]
           },
           "first_seen": "2026-08-28T18:53:11.467Z"
         },
@@ -1370,12 +1840,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postman collections for Webex REST APIs",
+                "homepage": "https://developer.webex.com",
                 "id": 69255540,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-31T22:43:15Z",
+                "open_issues": 4,
                 "owner": "WebexSamples",
                 "repo": "postman-webex",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "postman",
+                  "postman-collection",
+                  "webex-teams"
+                ]
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -1386,12 +1865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postman collection that demonstrates the Webex Calling APIs",
+                "homepage": null,
                 "id": 274696918,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-07T16:00:24Z",
+                "open_issues": 2,
                 "owner": "webex",
                 "repo": "postman-webex-calling",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             },
@@ -1402,12 +1886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postman collection to demonstrate using the Webex Meetings REST APIs",
+                "homepage": null,
                 "id": 265575288,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-09-15T01:53:39Z",
+                "open_issues": 0,
                 "owner": "webex",
                 "repo": "postman-webex-meetings",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
             }
@@ -1418,15 +1907,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:53:11.467Z",
+    "last_updated": "2026-08-29T04:49:52.307Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Cisco Webex resources for developers",
+      "homepage": "https://developer.webex.com",
       "id": 65803220,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2022-07-14T23:30:19Z",
+      "open_issues": 44,
       "owner": "CiscoDevNet",
       "repo": "awesome-webex",
-      "stars": 251
+      "stars": 251,
+      "topics": [
+        "awesome-list",
+        "cisco-webex",
+        "webex-teams"
+      ]
     },
     "original_repository_sha": "e798683fc2b1eda569437035c33dc9e183ed28bf",
     "enhanced_repository": "enhansome/enhansome-webex",
