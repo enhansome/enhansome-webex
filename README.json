@@ -52,7 +52,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11579,
+                "stars": 11578,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -523,8 +523,8 @@
                     "id": 62836827,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-31T01:52:18Z",
-                    "open_issues": 105,
+                    "last_commit": "2026-09-01T08:17:02Z",
+                    "open_issues": 104,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 204,
@@ -656,7 +656,7 @@
                     "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": [
                       "cisco",
                       "python",
@@ -789,8 +789,8 @@
                 "id": 62836827,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T01:52:18Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-01T08:17:02Z",
+                "open_issues": 104,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 204,
@@ -1355,7 +1355,7 @@
                     "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": [
                       "cisco",
                       "python",
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:14:05.797Z",
+    "last_updated": "2026-09-01T11:52:41.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
