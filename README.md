@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 183,194 | 🐛 223 | 🌐 Go | 📅 2026-09-05 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,353 | 🐛 17 | 🌐 Python | 📅 2026-09-01.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 183,300 | 🐛 224 | 🌐 Go | 📅 2026-09-06 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,651 | 🐛 17 | 🌐 Python | 📅 2026-09-01.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -46,7 +46,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Perl
   * [cisco\_spark-perl](https://github.com/akalinux/cisco_spark-perl) ⭐ 3 | 🐛 0 | 🌐 Perl | 📅 2025-09-17 - Asynchronous Bot and HTTP Client Library for Perl (by akalinux).
 * PHP
-  * [botman](https://github.com/botman/driver-cisco-spark) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2019-03-11 - Driver to connect with BotMan (by mpociot).
+  * [botman](https://github.com/botman/driver-cisco-spark) ⭐ 3 | 🐛 3 | 🌐 PHP | 📅 2019-03-11 - Driver to connect with BotMan (by mpociot).
 * Python
   * [webexteamsbot](https://github.com/hpreston/webexteamsbot) ⭐ 55 | 🐛 12 | 🌐 Python | 📅 2022-12-26 - A framework for simple '/command' bots (by hpreston)
   * [err-backend-cisco-webex-teams](https://github.com/marksull/err-backend-cisco-webex-teams) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - An errbot backend (by marksull).
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

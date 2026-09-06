@@ -274,7 +274,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2019-03-11T20:02:40Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "botman",
                 "repo": "driver-cisco-spark",
                 "stars": 3,
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:48:01.631Z",
+    "last_updated": "2026-09-06T11:10:03.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
