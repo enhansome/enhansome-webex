@@ -523,11 +523,11 @@
                     "id": 62836827,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-16T08:34:43Z",
-                    "open_issues": 105,
+                    "last_commit": "2026-09-17T09:02:43Z",
+                    "open_issues": 107,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
-                    "stars": 204,
+                    "stars": 205,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
@@ -656,7 +656,7 @@
                     "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 257,
+                    "stars": 258,
                     "topics": [
                       "cisco",
                       "python",
@@ -789,11 +789,11 @@
                 "id": 62836827,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T08:34:43Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-17T09:02:43Z",
+                "open_issues": 107,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
@@ -1355,7 +1355,7 @@
                     "open_issues": 6,
                     "owner": "WebexCommunity",
                     "repo": "WebexPythonSDK",
-                    "stars": 257,
+                    "stars": 258,
                     "topics": [
                       "cisco",
                       "python",
@@ -1874,7 +1874,7 @@
                 "open_issues": 2,
                 "owner": "webex",
                 "repo": "postman-webex-calling",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:53:11.467Z"
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:52:57.170Z",
+    "last_updated": "2026-09-17T11:56:06.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
@@ -1919,7 +1919,7 @@
       "open_issues": 44,
       "owner": "CiscoDevNet",
       "repo": "awesome-webex",
-      "stars": 251,
+      "stars": 252,
       "topics": [
         "awesome-list",
         "cisco-webex",

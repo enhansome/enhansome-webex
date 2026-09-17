@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,338 | 🐛 231 | 🌐 Go | 📅 2026-09-16 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 320,974 | 🐛 19 | 🌐 Python | 📅 2026-09-15.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,463 | 🐛 230 | 🌐 Go | 📅 2026-09-16 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,224 | 🐛 20 | 🌐 Python | 📅 2026-09-15.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -67,7 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
   * [webex-java-sdk](https://github.com/webex/webex-java-sdk) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2021-10-19 - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 204 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-16 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
+  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 205 | 🐛 107 | 🌐 TypeScript | 📅 2026-09-17 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
   * [sparky](https://github.com/flint-bot/sparky) ⭐ 17 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - A simple API wrapper for Node.js (by nmarus).
   * [sparkclient](https://github.com/marchfederico/node-sparkclient) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-29 - A simple Node.js module (by marchfederico).
 * Perl
@@ -75,7 +75,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * PHP
   * [SparkBundle](https://github.com/CiscoVE/SparkBundle) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2018-03-29 - Symfony bundle (by CiscoVE).
 * Python
-  * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) ⭐ 257 | 🐛 6 | 🌐 Python | 📅 2026-05-24 (formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).
+  * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) ⭐ 258 | 🐛 6 | 🌐 Python | 📅 2026-05-24 (formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).
   * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2017-11-16 - Python library (by brbester).
   * [aiociscospark](https://github.com/andriyko/aiociscospark) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2020-03-16 - Python 3 asynchronous API client (by andriyko).
   * [spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk) - Python module for consuming the RESTful APIs (by Bassintag551).
@@ -85,7 +85,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ### Advanced APIs
 
-* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 204 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-16 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 205 | 🐛 107 | 🌐 TypeScript | 📅 2026-09-17 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
 * [Widgets](https://github.com/webex/react-ciscospark) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - React components that mimic the Web user experience (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2019-04-04 - Integrate messaging and calling in your iOS apps (by Cisco Webex).
 * [SDK for Android](https://github.com/webex/spark-android-sdk) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2019-04-03 - Integrate messaging and calling in your Android apps (by Cisco Webex).
@@ -124,7 +124,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * PHP
   * [botman-spark-demo](https://github.com/mpociot/botman-spark-demo) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2017-09-27 - Use BotMan in combination with the REST API (by mpociot).
 * Python
-  * [ciscosparkapi bots](https://github.com/CiscoDevNet/ciscosparkapi/tree/master/examples) ⭐ 257 | 🐛 6 | 🌐 Python | 📅 2026-05-24 - Flask, webpy and pyramid bot examples (by cmlccie).
+  * [ciscosparkapi bots](https://github.com/CiscoDevNet/ciscosparkapi/tree/master/examples) ⭐ 258 | 🐛 6 | 🌐 Python | 📅 2026-05-24 - Flask, webpy and pyramid bot examples (by cmlccie).
   * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2018-02-12 - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).
   * [pyIntegration](https://github.com/CTGTME/pyIntegration) ⭐ 5 | 🐛 6 | 🌐 HTML | 📅 2022-12-08 - Flask OAuth example utilizing ciscosparkapi (by lorashley).
   * [My Hero](https://github.com/hpreston/myhero_spark) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2018-01-03 - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).
@@ -166,7 +166,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * <a name="postman">Postman</a>
   * [postman-webex](https://github.com/CiscoDevNet/postman-webex) ⭐ 111 | 🐛 4 | 📅 2025-01-31 - Scripted collections for Messaging API, Admin API and Cards (by ObjectIsAdvantag).
-  * [postman-webex-calling](https://github.com/webex/postman-webex-calling) ⭐ 28 | 🐛 2 | 📅 2023-11-07 - Collection to demonstrate using the Calling APIs (by Cisco Webex).
+  * [postman-webex-calling](https://github.com/webex/postman-webex-calling) ⭐ 29 | 🐛 2 | 📅 2023-11-07 - Collection to demonstrate using the Calling APIs (by Cisco Webex).
   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) ⭐ 15 | 🐛 0 | 📅 2022-09-15 - Collection to demonstrate using the Meetings REST APIs (by Cisco Webex).
 * [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [webex-tokens](https://webex-token.herokuapp.com) - Generate scoped tokens for admins (by ObjectIsAdvantag).
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
