@@ -523,7 +523,7 @@
                     "id": 62836827,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-17T09:02:43Z",
+                    "last_commit": "2026-09-18T11:12:29Z",
                     "open_issues": 107,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
@@ -789,7 +789,7 @@
                 "id": 62836827,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T09:02:43Z",
+                "last_commit": "2026-09-18T11:12:29Z",
                 "open_issues": 107,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
@@ -1731,7 +1731,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-06-20T16:41:12Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "DJF3",
             "repo": "Webex-Message-space-archiver",
             "stars": 78,
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:56:06.075Z",
+    "last_updated": "2026-09-18T11:33:44.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
