@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,502 | 🐛 67 | 🌐 Go | 📅 2026-10-08 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,025 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,495 | 🐛 64 | 🌐 Go | 📅 2026-10-09 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 326,043 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -67,7 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
   * [webex-java-sdk](https://github.com/webex/webex-java-sdk) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2021-10-19 - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 206 | 🐛 117 | 🌐 TypeScript | 📅 2026-10-08 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
+  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 206 | 🐛 113 | 🌐 TypeScript | 📅 2026-10-09 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
   * [sparky](https://github.com/flint-bot/sparky) ⭐ 17 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - A simple API wrapper for Node.js (by nmarus).
   * [sparkclient](https://github.com/marchfederico/node-sparkclient) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-29 - A simple Node.js module (by marchfederico).
 * Perl
@@ -85,8 +85,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ### Advanced APIs
 
-* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 206 | 🐛 117 | 🌐 TypeScript | 📅 2026-10-08 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
-* [Widgets](https://github.com/webex/react-ciscospark) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - React components that mimic the Web user experience (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 206 | 🐛 113 | 🌐 TypeScript | 📅 2026-10-09 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
+* [Widgets](https://github.com/webex/react-ciscospark) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - React components that mimic the Web user experience (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2019-04-04 - Integrate messaging and calling in your iOS apps (by Cisco Webex).
 * [SDK for Android](https://github.com/webex/spark-android-sdk) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2019-04-03 - Integrate messaging and calling in your Android apps (by Cisco Webex).
 * [SDK for Windows](https://github.com/webex/spark-windows-sdk) ⭐ 2 | 🐛 3 | 🌐 C# | 📅 2018-08-03 - Integrate messaging and calling in your Windows apps (by Cisco Webex).
@@ -147,7 +147,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * SDK for Browsers
   * [call samples](https://developer.webex.com/docs/sdks/browser#samples) - Offical samples of the Browser SDK in action (by Cisco Webex).
 * Widgets
-  * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) ⭐ 84 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - Source code for the Space Widget Demo (by Cisco Webex).
+  * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - Source code for the Space Widget Demo (by Cisco Webex).
   * [widget-samples](https://github.com/CiscoDevNet/widget-samples) ⭐ 7 | 🐛 2 | 🌐 HTML | 📅 2020-05-27 - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
   * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-26 - Widget OAuth example with the JavaScript SDK (by adamweeks).
   * [webdialer](https://github.com/achhabra2/webdialer) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-18 - Test calls and overlay an existing Web site (by achhabra2).
@@ -157,7 +157,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to browse or interact with the APIs*
 
-* [teams-space-archive](https://github.com/DJF3/Webex-Teams-Space-Archive-v2) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2026-06-20 - Archive messages to a single HTML file (by DJF3).
+* [teams-space-archive](https://github.com/DJF3/Webex-Teams-Space-Archive-v2) ⭐ 80 | 🐛 3 | 🌐 Python | 📅 2026-06-20 - Archive messages to a single HTML file (by DJF3).
 * [websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) ⭐ 19 | 🐛 9 | 🌐 JavaScript | 📅 2024-06-29 - An unsupported hack to get events thru a native websocket (by marchfederico).
 * [sparkcli](https://github.com/tdeckers/sparkcli) ⭐ 14 | 🐛 4 | 🌐 Go | 📅 2017-05-09 - A command line interface (by tdeckers).
 * [whproxy](https://github.com/sgrimee/whproxy) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2016-08-03 - Proxy incoming webhooks to established websockets (by sgrimee).
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
