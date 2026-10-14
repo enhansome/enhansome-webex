@@ -52,7 +52,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11581,
+                "stars": 11582,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -523,8 +523,8 @@
                     "id": 62836827,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T13:12:35Z",
-                    "open_issues": 120,
+                    "last_commit": "2026-10-14T10:45:52Z",
+                    "open_issues": 116,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 206,
@@ -789,8 +789,8 @@
                 "id": 62836827,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T13:12:35Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-14T10:45:52Z",
+                "open_issues": 116,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 206,
@@ -1787,7 +1787,7 @@
           "description": "Proxy incoming webhooks to established websockets (by sgrimee).",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "WIP - Proxy incoming webhooks to established websockets",
             "homepage": null,
             "id": 63189519,
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:26:47.227Z",
+    "last_updated": "2026-10-14T12:12:21.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
