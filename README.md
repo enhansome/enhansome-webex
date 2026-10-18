@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,835 | 🐛 76 | 🌐 Go | 📅 2026-10-15 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,086 | 🐛 21 | 🌐 Python | 📅 2026-10-17.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 189,019 | 🐛 79 | 🌐 Go | 📅 2026-10-15 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,324 | 🐛 24 | 🌐 Python | 📅 2026-10-17.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -59,7 +59,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * C#
   * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) ⭐ 13 | 🐛 4 | 🌐 C# | 📅 2022-06-22 - An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).
 * Elixir
-  * [ex\_webexteams](https://github.com/zpeters/ex_webexteams) ⭐ 4 | 🐛 12 | 🌐 Elixir | 📅 2023-12-11 - Elixir package (by zpeters).
+  * [ex\_webexteams](https://github.com/zpeters/ex_webexteams) ⭐ 5 | 🐛 12 | 🌐 Elixir | 📅 2023-12-11 - Elixir package (by zpeters).
 * Go
   * [go-cisco-webex-teams](https://github.com/jbogarin/go-cisco-webex-teams) ⭐ 37 | 🐛 7 | 🌐 Go | 📅 2022-10-09 - A Go client library (by jbogarin).
 * Haskell
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

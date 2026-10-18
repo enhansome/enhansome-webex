@@ -52,7 +52,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11585,
+                "stars": 11584,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -415,7 +415,7 @@
                     "open_issues": 12,
                     "owner": "zpeters",
                     "repo": "ex_webexteams",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:11.467Z"
@@ -1907,7 +1907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:01:22.973Z",
+    "last_updated": "2026-10-18T11:30:07.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
