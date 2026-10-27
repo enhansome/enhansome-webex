@@ -1,6 +1,6 @@
 # Awesome Webex with stars
 
-A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,441 | 🐛 91 | 🌐 Go | 📅 2026-10-26 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 330,389 | 🐛 19 | 🌐 Python | 📅 2026-10-26.
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,605 | 🐛 92 | 🌐 Go | 📅 2026-10-26 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 330,589 | 🐛 19 | 🌐 Python | 📅 2026-10-26.
 
 > Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
 > Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) ⭐ 72 | 🐛 18 | 📅 2022-11-22 if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
@@ -67,7 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
   * [webex-java-sdk](https://github.com/webex/webex-java-sdk) ⭐ 70 | 🐛 3 | 🌐 Java | 📅 2021-10-19 - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 207 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-26 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
+  * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) ⭐ 207 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-27 - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
   * [sparky](https://github.com/flint-bot/sparky) ⭐ 17 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07 - A simple API wrapper for Node.js (by nmarus).
   * [sparkclient](https://github.com/marchfederico/node-sparkclient) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-29 - A simple Node.js module (by marchfederico).
 * Perl
@@ -77,7 +77,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Python
   * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) ⭐ 258 | 🐛 7 | 🌐 Python | 📅 2026-05-24 (formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).
   * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2017-11-16 - Python library (by brbester).
-  * [aiociscospark](https://github.com/andriyko/aiociscospark) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2020-03-16 - Python 3 asynchronous API client (by andriyko).
+  * [aiociscospark](https://github.com/andriyko/aiociscospark) - Python 3 asynchronous API client (by andriyko).
   * [spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk) - Python module for consuming the RESTful APIs (by Bassintag551).
 * Ruby
   * [cisco\_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) ⭐ 9 | 🐛 2 | 🌐 Ruby | 📅 2024-06-07 - Ruby client (by NGMarmaduke).
@@ -85,7 +85,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ### Advanced APIs
 
-* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 207 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-26 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/webex-js-sdk#a-note-on-browser-usage) ⭐ 207 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-27 - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
 * [Widgets](https://github.com/webex/react-ciscospark) ⭐ 85 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - React components that mimic the Web user experience (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) ⭐ 35 | 🐛 1 | 🌐 Swift | 📅 2019-04-04 - Integrate messaging and calling in your iOS apps (by Cisco Webex).
 * [SDK for Android](https://github.com/webex/spark-android-sdk) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2019-04-03 - Integrate messaging and calling in your Android apps (by Cisco Webex).
@@ -225,4 +225,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
