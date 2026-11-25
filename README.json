@@ -52,7 +52,7 @@
                 "open_issues": 45,
                 "owner": "howdyai",
                 "repo": "botkit",
-                "stars": 11577,
+                "stars": 11579,
                 "topics": [
                   "bot",
                   "bot-application",
@@ -523,8 +523,8 @@
                     "id": 62836827,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-24T15:49:53Z",
-                    "open_issues": 134,
+                    "last_commit": "2026-11-25T15:03:11Z",
+                    "open_issues": 135,
                     "owner": "webex",
                     "repo": "webex-js-sdk",
                     "stars": 205,
@@ -762,8 +762,8 @@
                 "id": 62836827,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T15:49:53Z",
-                "open_issues": 134,
+                "last_commit": "2026-11-25T15:03:11Z",
+                "open_issues": 135,
                 "owner": "webex",
                 "repo": "webex-js-sdk",
                 "stars": 205,
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:01:20.584Z",
+    "last_updated": "2026-11-25T17:28:25.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cisco Webex resources for developers",
